@@ -98,15 +98,10 @@ body{
     font-size: 30px;
 }
 .portfolio{
-    height: 500px;
+    height: auto;
     width: 100%;
     padding-top: 50px;
     padding-bottom: 50px;
-}
-@media only screen and (max-width: 992px){
-    .portfolio{
-        height: auto;
-    }
 }
 .portfolio h1{
     font-size: 50px;
